@@ -1,0 +1,11 @@
+{
+  "name": "cra-template-asmr-projects",
+  "version": "1.0.0",
+  "description": "A React template for ASMR Projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ASMR Projects",
+  "license": "ISC"
+}
